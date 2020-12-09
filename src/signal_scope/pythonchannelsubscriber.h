@@ -6,7 +6,7 @@
 #include "pythonsignalhandler.h"
 #include <topic_tools/shape_shifter.h>
 
-#include <PythonQt.h>
+#include <PythonQt/PythonQt.h>
 
 
 class PythonChannelSubscriber : public ROSSubscriber

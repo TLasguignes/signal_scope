@@ -4,7 +4,7 @@
 #include "rossubscriber.h"
 #include "rosthread.h"
 
-#include <PythonQt.h>
+#include <PythonQt/PythonQt.h>
 
 #include <QVariant>
 #include <QMap>

@@ -5,7 +5,7 @@
 #include "signaldescription.h"
 #include "signaldata.h"
 
-#include <PythonQt.h>
+#include <PythonQt/PythonQt.h>
 
 class SignalData;
 class SignalDescription;

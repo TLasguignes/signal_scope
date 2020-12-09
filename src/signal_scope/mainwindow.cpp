@@ -23,8 +23,8 @@
 
 #include "qjson.h"
 
-#include "ctkPythonConsole.h"
-#include "ctkAbstractPythonManager.h"
+#include <ctkPythonConsole/ctkPythonConsole.h>
+#include <ctkPythonConsole/ctkAbstractPythonManager.h>
 #include "pythonsignalhandler.h"
 #include "pythonmessageinspector.h"
 #include "pythonchannelsubscribercollection.h"

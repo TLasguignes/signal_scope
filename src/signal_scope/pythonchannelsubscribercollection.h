@@ -6,7 +6,7 @@
 #include "pythonsignalhandler.h"
 
 
-#include <PythonQt.h>
+#include <PythonQt/PythonQt.h>
 
 
 class PythonChannelSubscriberCollection : public QObject
